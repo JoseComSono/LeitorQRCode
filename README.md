@@ -1,2 +1,2 @@
 # qrcodereader
-A shit to read QRCODES.
+Projeto 3 para a aula de Laboratorios de Programação.
